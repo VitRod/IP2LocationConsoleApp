@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP2LocationConsoleApp", "IP2LocationConsoleApp\IP2LocationConsoleApp.csproj", "{62A22EB3-C833-4B4E-8C92-4D45233FC339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A22EB3-C833-4B4E-8C92-4D45233FC339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A22EB3-C833-4B4E-8C92-4D45233FC339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A22EB3-C833-4B4E-8C92-4D45233FC339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A22EB3-C833-4B4E-8C92-4D45233FC339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9A47EA6-E72E-4789-9AE4-7726BF7CA649}
+	EndGlobalSection
+EndGlobal

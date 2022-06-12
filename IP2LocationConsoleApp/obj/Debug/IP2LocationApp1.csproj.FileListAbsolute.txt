@@ -1,0 +1,24 @@
+C:\Users\ukrda\source\repos\IP2LocationApp1\IP2LocationApp1\bin\Debug\IP2LocationApp1.exe.config
+C:\Users\ukrda\source\repos\IP2LocationApp1\IP2LocationApp1\bin\Debug\IP2LocationApp1.exe
+C:\Users\ukrda\source\repos\IP2LocationApp1\IP2LocationApp1\bin\Debug\IP2LocationApp1.pdb
+C:\Users\ukrda\source\repos\IP2LocationApp1\IP2LocationApp1\bin\Debug\IP2Location.dll
+C:\Users\ukrda\source\repos\IP2LocationApp1\IP2LocationApp1\bin\Debug\IP2Proxy.dll
+C:\Users\ukrda\source\repos\IP2LocationApp1\IP2LocationApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ukrda\source\repos\IP2LocationApp1\IP2LocationApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ukrda\source\repos\IP2LocationApp1\IP2LocationApp1\obj\Debug\IP2LocationApp1.csproj.AssemblyReference.cache
+C:\Users\ukrda\source\repos\IP2LocationApp1\IP2LocationApp1\obj\Debug\IP2LocationApp1.csproj.CoreCompileInputs.cache
+C:\Users\ukrda\source\repos\IP2LocationApp1\IP2LocationApp1\obj\Debug\IP2LocationApp1.csproj.CopyComplete
+C:\Users\ukrda\source\repos\IP2LocationApp1\IP2LocationApp1\obj\Debug\IP2LocationApp1.exe
+C:\Users\ukrda\source\repos\IP2LocationApp1\IP2LocationApp1\obj\Debug\IP2LocationApp1.pdb
+H:\Visual Studio IDE versions\WorkspaceCSharpProjects2022\IP2LocationApp1\IP2LocationApp1\bin\Debug\IP2LocationApp1.exe.config
+H:\Visual Studio IDE versions\WorkspaceCSharpProjects2022\IP2LocationApp1\IP2LocationApp1\bin\Debug\IP2LocationApp1.exe
+H:\Visual Studio IDE versions\WorkspaceCSharpProjects2022\IP2LocationApp1\IP2LocationApp1\bin\Debug\IP2LocationApp1.pdb
+H:\Visual Studio IDE versions\WorkspaceCSharpProjects2022\IP2LocationApp1\IP2LocationApp1\bin\Debug\IP2Location.dll
+H:\Visual Studio IDE versions\WorkspaceCSharpProjects2022\IP2LocationApp1\IP2LocationApp1\bin\Debug\IP2Proxy.dll
+H:\Visual Studio IDE versions\WorkspaceCSharpProjects2022\IP2LocationApp1\IP2LocationApp1\bin\Debug\Newtonsoft.Json.dll
+H:\Visual Studio IDE versions\WorkspaceCSharpProjects2022\IP2LocationApp1\IP2LocationApp1\bin\Debug\Newtonsoft.Json.xml
+H:\Visual Studio IDE versions\WorkspaceCSharpProjects2022\IP2LocationApp1\IP2LocationApp1\obj\Debug\IP2LocationApp1.csproj.AssemblyReference.cache
+H:\Visual Studio IDE versions\WorkspaceCSharpProjects2022\IP2LocationApp1\IP2LocationApp1\obj\Debug\IP2LocationApp1.csproj.CoreCompileInputs.cache
+H:\Visual Studio IDE versions\WorkspaceCSharpProjects2022\IP2LocationApp1\IP2LocationApp1\obj\Debug\IP2LocationApp1.csproj.CopyComplete
+H:\Visual Studio IDE versions\WorkspaceCSharpProjects2022\IP2LocationApp1\IP2LocationApp1\obj\Debug\IP2LocationApp1.exe
+H:\Visual Studio IDE versions\WorkspaceCSharpProjects2022\IP2LocationApp1\IP2LocationApp1\obj\Debug\IP2LocationApp1.pdb
